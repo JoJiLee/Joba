@@ -9,6 +9,9 @@
     "start": "node index.js",
     "glitch": "npm install"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
