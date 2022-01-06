@@ -19,7 +19,7 @@ client.on('ready', () => {
     new WOKCommands(client, {
         commandsDir: path.join(__dirname, 'commands'),
         typeScript: true,
-        testServers: '550574505781624844',
+        testServers: '550574505781624844'
     })
 
 client.login(process.env.TOKEN)
